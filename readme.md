@@ -5,7 +5,7 @@ This project is a sophisticated, web-based stock price predictor designed for tr
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Intelligent Price Prediction**: Utilizes `XGBoost` (primary) and `Random Forest` (secondary) models to predict the next-day stock closing price with a high degree of accuracy.
 - **Advanced Feature Engineering**: Enriches the input data with over 15 technical indicators, including RSI, MACD, Bollinger Bands, moving averages, volatility, and lag features to improve model performance.
